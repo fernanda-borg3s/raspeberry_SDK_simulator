@@ -26,7 +26,7 @@ A coleção de simulações progride de forma gradual: começando com a simples 
 
 ## Como executar projeto (Windows)
 
-- Certifique-se de ter as extensões Wokwi, CMake e Raspberry Pi Pico instaladas no Visual Studio Code
+- Certifique-se de ter as extensões Wokwi, CMake Tools e Raspberry Pi Pico instaladas no Visual Studio Code
 - Instale o CMake no computador
 
 1. Clone Repositorio

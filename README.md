@@ -38,8 +38,8 @@ git clone https://github.com/fernanda-borg3s/raspeberry_SDK_simulator.git
 mkdir build
 cd build
 cmake ..
-cmake -build .
+cmake --build .
 ```
-OBS: Até o momento, nesse projeto, o ```Cmake -build .``` tem quer ser executado toda vez que houver uma alteração no código
+OBS: Até o momento, nesse projeto, o ```Cmake --build .``` tem quer ser executado toda vez que houver uma alteração no código
 
 

@@ -24,18 +24,6 @@ A coleção de simulações progride de forma gradual: começando com a simples 
 3. **Controle de múltiplos LEDs** – manipulação de saídas digitais  
 5. **Semáforo** – ciclo de LEDs para representar sinais de trânsito  
 
-##  Estrutura do projeto
-raspeberry_SDK_simulator/
-├── .vscode
-├── build 
-  └──file.hex
-  └── file.bin
-  └── file.elf
-├── blink.c
-├── CMakeList.txt
-├── diagram.json
-├── wokwi.toml
-
 ## Como executar projeto (Windows)
 
 - Certifique-se de ter as extensões Wokwi, CMake e Raspberry Pi Pico instaladas no Visual Studio Code

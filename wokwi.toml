@@ -1,0 +1,13 @@
+[wokwi]
+version = 1
+firmware = "build/blink.hex"
+elf = "build/blink.elf"
+hex = "build/blink.hex"
+
+[board]
+type = "pico"
+
+[build]
+cmake = true
+cmakeListsPath = "CMakeLists.txt"
+buildPath = "build"
